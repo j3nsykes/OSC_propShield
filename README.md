@@ -14,7 +14,7 @@ Wiring config for Teensy
 * GND = GND
 * Vin = 5V
 
-### Dependencies: 
+### Arduino Dependencies: 
 * NPX Motion Sense Library by Paul Stoffregen [here](https://github.com/PaulStoffregen/NXPMotionSense)
 * Adafruit's fork of the WifiNINA library [here](https://learn.adafruit.com/adafruit-airlift-breakout/arduino)
 * CNMAT OSC library [here](https://github.com/CNMAT/OSC)
