@@ -14,6 +14,9 @@ Wiring config for Teensy
 * GND = GND
 * Vin = 5V
 
+### Wiring 
+![alt text](https://github.com/j3nsykes/OSC_propShield/blob/master/PropShield_Airlift_bb.png "Breadboard Wiring")
+
 ### Arduino Dependencies: 
 * NPX Motion Sense Library by Paul Stoffregen [here](https://github.com/PaulStoffregen/NXPMotionSense)
 * Adafruit's fork of the WifiNINA library [here](https://learn.adafruit.com/adafruit-airlift-breakout/arduino)
